@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: "gilda display";
+    background-color: #FFFFFF;
+    overflow-x: hidden;
+}
+nav{
+    font-weight: bold;
+    font-size: 2.5em;
+    height: auto;
+    color: RED ;
+}
+.menu{
+    padding-left: 50px;
+}
+.icon{
+    margin-right: -50px;
+}
+span{
+    padding-left: 20px;
+}
+.logo{
+    color: blue;
+}
+
