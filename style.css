@@ -4,22 +4,95 @@ body {
     background-color: #FFFFFF;
     overflow-x: hidden;
 }
-nav{
+nav {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 10px; 
+    color: red;
     font-weight: bold;
-    font-size: 2.5em;
-    height: auto;
-    color: RED ;
+    font-size: 2em;
+    padding-left: 40px;
 }
-.menu{
-    padding-left: 50px;
+
+.menu {
+    width: 50px; 
 }
-.icon{
-    margin-right: -50px;
+
+.icon {
+    width: 30px; 
+    margin-left: auto;
 }
+
 span{
     padding-left: 20px;
 }
 .logo{
     color: blue;
+}
+.image {
+    width: 100vw; 
+    padding: 0; 
+    margin: 0;
+}
+
+.rec {
+    width: 100vw;
+    height: -500px; 
+}
+.one {
+    position: relative;
+}
+
+.image-container {
+    position: relative;
+    width: 100vw; 
+    text-align: center;
+}
+
+.rec {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+
+.text-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    color: black; 
+    text-align: left;
+    padding: 20px;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.description {
+    font-size: 16px;
+    line-height: 1.5;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+    font-weight: 200;
+}
+p{
+    text-align: center;
+    padding-top: -70px;
+    transform: translateY(-35px);
+    font-size: 20px;
+    font-weight: 100;
 }
 
