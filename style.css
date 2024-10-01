@@ -38,8 +38,9 @@ span{
 
 .rec {
     width: 100vw;
-    height: -500px; 
+    height: 100vh; /* Full viewport height */
 }
+
 .one {
     position: relative;
 }
@@ -73,15 +74,18 @@ span{
 }
 
 .title {
-    font-size: 50px;
+    font-size: 30px;
     font-weight: bold;
     margin-bottom: 10px;
     text-align: left;
+    padding-left: 20px;
+    padding-top: -10px;
 }
 
 .description {
-    font-size: 16px;
+    font-size: 17px;
     line-height: 1.5;
+    padding-left: 30px;
 }
 h1{
     text-align: center;
@@ -93,5 +97,87 @@ p{
     padding-top: -70px;
     transform: translateY(-35px);
     font-size: 20px;
+    font-weight: 100; 
+ } 
+.search{
+    padding-left: 110px;
+}
+.container {
+    position: relative;
+    width: 100%;
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translateY(-40%);
+}
+
+/* Style for the Ellipse */
+.Ellipse img {
+    width: 200px; /* Adjust width to your needs */
+    height: auto;
+
+}
+
+/* Style for the Payment, placing it in the center of the Ellipse */
+.payment {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.payment img {
+    width: 70px; /* Adjust width to your needs */
+    height: auto;
+}
+.method{
+    transform: translateY(-300%);
+}
+.container2{
+    position: relative;
+    width: 100%;
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translateY(-120%);
+}
+h2{
+    text-align: center;
+    font-size: 55px;
     font-weight: 100;
+}
+.simple{
+    transform: translateY(-650%);
+}
+/* Center the container on the page */
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This makes the container take the full viewport height */
+}
+
+/* Set relative position to the wrapper for easy positioning of children */
+.image-wrapper {
+    position: relative;
+}
+
+/* Center the ellipse */
+.ellipse {
+    display: block;
+    width: 200px; /* Adjust as needed */
+    transform: translateY(-620%);
+}
+
+/* Position the support image in the center of the ellipse */
+.support {
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    transform: translate(-60%, -70%);
+    width: 100px; /* Adjust size as needed */
+    transform: translateY(-1300%);
+    padding-right: 20px;
 }
