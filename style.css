@@ -165,3 +165,13 @@ h2{
 .why{
     transform: translateY(-10%);
 }
+.hours{
+    transform: translateY(-710%);
+}
+.image-container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    transform: translateY(-70%);
+}
