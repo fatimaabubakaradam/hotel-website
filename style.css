@@ -176,3 +176,6 @@ h2{
     height: 100vh; 
     transform: translateY(-70%);
 }
+.nice{
+    transform: translateY(-1050%);
+}
