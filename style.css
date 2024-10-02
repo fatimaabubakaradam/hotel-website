@@ -345,7 +345,7 @@ p {
     margin: 50px;
 }
 .footer{
-    transform: translateY(-270%);
+    transform: translateY(-210%);
 }
 .title-section{
     font-weight: bold;
@@ -372,5 +372,19 @@ p {
 }
 .email{
     transform: translateX(43%);
-    
+    margin-top: -10%;
+}
+.email-container{
+    position: relative;
+}
+.btn{
+    background-color: rebeccapurple;
+}
+.your{
+    transform: translateX(22%);
+    color: blue;
+    font-size: 0.5em;
+}
+.yourll{
+    color: red;
 }
