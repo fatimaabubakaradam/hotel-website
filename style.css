@@ -183,19 +183,16 @@ h2{
 .offer{
     transform: translateY(-2700%);
 }
-
-/* Center the card on the page */
 .card-container {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     transform: translateY(-550%);
-    max-width: 600px; /* Card width will be 600px */
-    margin: 50px ; /* Center horizontally and add space at top and bottom */
+    max-width: 600px; 
+    margin: 50px ; 
     padding: 20px;
     border-radius: 10px;
-    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
     color: black; 
 }
 .room1 {
@@ -282,5 +279,4 @@ h5 span {
 .room-details3 {
     text-align: left;
     padding-left:  10px;
-
 }
