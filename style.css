@@ -344,4 +344,29 @@ span {
 p {
     margin: 50px;
 }
-
+.footer{
+    transform: translateY(-270%);
+}
+.title-section{
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.page-title{
+    transform: translateX(-42%);
+}
+.trip{
+    transform: translateX(-3%);
+}
+.trippp{
+    transform: translateX(-15%);
+}
+.tripp{
+    transform: translateX(-10%);
+    font-size: 1em;
+}
+.cityy{
+    transform: translateX(-23%);
+}
+.cityyy{
+    transform: translateX(-20%);
+}
