@@ -196,48 +196,37 @@ h2{
     padding: 20px;
     border-radius: 10px;
     /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
-    color: black; /* For text inside the card */
+    color: black; 
 }
-
-/* Styling the room image */
 .room1 {
     position: relative;
-    width: 100%; /* Take full width of the card */
+    width: 100%; 
     height: auto;
 }
 
 .bed img {
-    width: 100%; /* Make the image responsive */
+    width: 100%; 
     height: auto;
     display: block;
     border-radius: 10px;
 }
-
-/* Positioning favorite and rate icons */
 .fav, .rate {
     position: absolute;
     top: 10px;
 }
 
 .fav {
-    right: 10px; /* Positioned at the top right corner */
+    right: 10px; 
 }
 
 .rate {
-    left: 10px; /* Positioned at the top left corner */
+    left: 10px; 
 }
-
-/* Styling the room details (text) */
 .room-details {
     text-align: left;
     padding-left:  10px;
 
 }
-
-h3, h4, h5 {
-    /* margin: 5px 0; */
-}
-
 h3 {
     font-size: 1.2rem;
 }
@@ -245,11 +234,6 @@ h3 {
 h4 {
     font-size: 0.8rem;
 }
-
-h5 {
-    /* font-size: 0.5rem; */
-}
-
 h5 span {
     font-weight: bold;
     font-size: 1em;
