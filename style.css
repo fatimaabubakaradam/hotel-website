@@ -297,7 +297,7 @@ h5 span {
     width: 100%;
 }
 .four{
-    transform: translateY(-350%);
+    transform: translateY(-100%);
 }
 .con {
     display: flex;
@@ -315,7 +315,7 @@ h5 span {
     padding-left: 3px;
 }
 .right-content img {
-    margin-right: 5px; /* Adds space between the two images */
+    margin-right: 5px; 
 }
 
 h4 {
@@ -323,8 +323,18 @@ h4 {
 }
 
 span {
-    margin-left: -12px; /* Adds space between the image and the span */
+    margin-left: -12px;
 }
 .min{
     color: blue;
 }
+.city {
+    text-align: left;
+    margin-left: -250px;
+    font-size: 200px;
+}
+
+p {
+    margin: 50px;
+}
+
