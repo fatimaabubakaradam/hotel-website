@@ -38,6 +38,7 @@ span{
 }
 .one {
     position: relative;
+    
 }
 .image-container {
     position: relative;
@@ -164,7 +165,7 @@ h2{
     padding-right: 20px;
 }
 .why{
-    transform: translateY(-10%);
+    transform: translateY(-10%);  
 }
 .hours{
     transform: translateY(-710%);
@@ -180,5 +181,79 @@ h2{
     transform: translateY(-1050%);
 }
 .offer{
-     transform: translateY(-2700%);
+    transform: translateY(-2700%);
 }
+
+/* Center the card on the page */
+.card-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(-550%);
+    max-width: 600px; /* Card width will be 600px */
+    margin: 50px ; /* Center horizontally and add space at top and bottom */
+    padding: 20px;
+    border-radius: 10px;
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+    color: black; /* For text inside the card */
+}
+
+/* Styling the room image */
+.room1 {
+    position: relative;
+    width: 100%; /* Take full width of the card */
+    height: auto;
+}
+
+.bed img {
+    width: 100%; /* Make the image responsive */
+    height: auto;
+    display: block;
+    border-radius: 10px;
+}
+
+/* Positioning favorite and rate icons */
+.fav, .rate {
+    position: absolute;
+    top: 10px;
+}
+
+.fav {
+    right: 10px; /* Positioned at the top right corner */
+}
+
+.rate {
+    left: 10px; /* Positioned at the top left corner */
+}
+
+/* Styling the room details (text) */
+.room-details {
+    text-align: left;
+    padding-left:  10px;
+
+}
+
+h3, h4, h5 {
+    /* margin: 5px 0; */
+}
+
+h3 {
+    font-size: 1.2rem;
+}
+
+h4 {
+    font-size: 0.8rem;
+}
+
+h5 {
+    /* font-size: 0.5rem; */
+}
+
+h5 span {
+    font-weight: bold;
+    font-size: 1em;
+    color: blue;
+
+}
+
