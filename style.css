@@ -304,7 +304,6 @@ h5 span {
     justify-content: space-between;
     align-items: center;
 }
-
 .right-content {
     display: flex;
     align-items: center;
@@ -317,7 +316,15 @@ h5 span {
 .right-content img {
     margin-right: 5px; 
 }
-
+.clock{
+   
+    transform: translateY(-40%);
+    padding-left: 500px;
+}
+.time{
+    padding-top: 100px;
+    color: blue;
+}
 h4 {
     margin: 0;
 }
