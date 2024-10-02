@@ -296,3 +296,35 @@ h5 span {
 .pic-recent{
     width: 100%;
 }
+.four{
+    transform: translateY(-350%);
+}
+.con {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.right-content {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.vec1{
+    position: absolute;
+    padding-left: 3px;
+}
+.right-content img {
+    margin-right: 5px; /* Adds space between the two images */
+}
+
+h4 {
+    margin: 0;
+}
+
+span {
+    margin-left: -12px; /* Adds space between the image and the span */
+}
+.min{
+    color: blue;
+}
