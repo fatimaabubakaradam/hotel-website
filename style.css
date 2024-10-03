@@ -3,6 +3,7 @@ body {
     font-family: "gilda display";
     background-color: #FFFFFF;
     overflow-x: hidden;
+    max-width: 600px;
 }
 nav {
     display: flex;
@@ -16,6 +17,9 @@ nav {
 }
 .menu {
     width: 50px; 
+}
+.nav-menu{
+    
 }
 .icon {
     width: 30px; 
@@ -394,3 +398,44 @@ p {
 .last{
     transform: translateX(-37%);
 }
+.menu-toggle {
+    display: block;
+}
+.nav-menu {
+    display: none;
+    position: absolute;
+    right: 0;
+    width: 400px;
+    height: 650px;
+    background-color: #ffff;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.5);
+    transform: translateX(100%);
+    transition: transform 0.3s ease;
+    color: black;
+    font-size: 1em;
+    top: 103px;
+
+}
+.nav-menu.active {
+    transform: translateX(0);
+    display: flex;
+    color: black;
+}
+ .nav-menu ul {
+    flex-direction: column;
+    width: 145px;
+    list-style: none;
+    top: 103px;
+    
+} 
+.nav-menu li {
+    margin: 10px 0;
+   
+}
+.close-menu {
+    display: block;
+}
+
