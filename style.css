@@ -219,12 +219,7 @@ h2{
     height: auto;
 }
 
-.bed img {
-    width: 100%; 
-    height: auto;
-    display: block;
-    border-radius: 10px;
-}
+
 .fav, .rate {
     position: absolute;
     top: 10px;
