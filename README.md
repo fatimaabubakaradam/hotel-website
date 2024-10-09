@@ -58,8 +58,6 @@ Copy code
 cd hotel-website
 3. **Open in a Browser:**
 
-Open in a Browser:
-
 Open index.html in your preferred web browser to view the mobile version of the website.
 
 bash
