@@ -78,7 +78,7 @@ This website is designed exclusively for mobile use. Key features include:
 
 **Responsive Design**: Adapted for different mobile screen sizes, ensuring consistency across devices.
 
-For the best experience, open the website on a mobile browser. It is designed to function smoothly on most modern smartphones with a screen resolution of 360x640 pixels or higher.
+For the best experience, open the website on a mobile browser. It is designed to function smoothly on most modern smartphones with a screen  of 600 pixels .
 
 **Screenshots**
 
