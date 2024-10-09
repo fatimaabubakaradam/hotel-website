@@ -36,13 +36,16 @@ Check out the live demo of the project:  https://fatimaabubakaradam.github.io/ho
 
 - **Mobile-Optimized Design:** A layout specifically tailored for mobile devices with a clean and user-friendly interface.
 - **Room and Service Listings:** Detailed information about available rooms and services, including images and descriptions.
-- **Interactive Navigation:**Smooth transitions and user-friendly navigation between different sections.
-- **JavaScript Interactivity:**Features like dynamic content loading and interactive forms powered by JavaScript.
+- **Interactive Navigation:** Smooth transitions and user-friendly navigation between different sections.
+- **JavaScript Interactivity:** Features like dynamic content loading and interactive forms powered by JavaScript.
 ## Technologies Used
 
  **HTML**: For structuring the content and layout.
+ 
 - **CSS**: For the structure and layout of the website.
+- 
 **JavaScript**: To handle user interactions and enhance the website's functionality.
+  
 ## Setup and Installation
 To get started with the Hotel Website, follow these steps:
 
