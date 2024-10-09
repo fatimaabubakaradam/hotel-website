@@ -70,8 +70,11 @@ Or simply double-click the index.html file to open it in your browser.
 This website is designed exclusively for mobile use. Key features include:
 
 **Mobile Navigation**: Optimized for touch-screen devices, ensuring ease of use.
+
 **Interactive JavaScript Features**: Dynamic elements, such as interactive forms and real-time content updates, enhance the user experience.
+
 **Responsive Design**: Adapted for different mobile screen sizes, ensuring consistency across devices.
+
 For the best experience, open the website on a mobile browser. It is designed to function smoothly on most modern smartphones with a screen resolution of 360x640 pixels or higher.
 
 **Screenshots**
@@ -83,13 +86,15 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 **Author(s)**
 If you have any questions or need further assistance, feel free to reach out:
 
-Name: Fatima Abubakar
-Email: fatimammcy@gmail.com
-GitHub: https://github.com/fatimaabubakaradam
-Website: https://hotel-website.onrender.com
+**Name:** Fatima Abubakar
+
+**Email:** fatimammcy@gmail.com
+
+**GitHub:** https://github.com/fatimaabubakaradam
+
+**Website:** https://hotel-website.onrender.com
 Thank you for visiting the Hotel Website repository. We hope you find it useful and enjoy contributing to the project!
 
-This version emphasizes that the website is mobile-only and includes JavaScript functionality. Let me know if any other adjustments are needed!
 
 
 
@@ -98,7 +103,3 @@ This version emphasizes that the website is mobile-only and includes JavaScript 
 
 
 
-
-
-
-ChatGPT can make mistakes. Check important info.
