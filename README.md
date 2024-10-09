@@ -40,11 +40,11 @@ Check out the live demo of the project:  https://fatimaabubakaradam.github.io/ho
 - **JavaScript Interactivity:** Features like dynamic content loading and interactive forms powered by JavaScript.
 ## Technologies Used
 
- **HTML**: For structuring the content and layout.
+ -**HTML**: For structuring the content and layout.
  
-- **CSS**: For the structure and layout of the website.
-- 
-**JavaScript**: To handle user interactions and enhance the website's functionality.
+ -**CSS**: For the structure and layout of the website.
+ 
+-**JavaScript**: To handle user interactions and enhance the website's functionality.
   
 ## Setup and Installation
 To get started with the Hotel Website, follow these steps:
