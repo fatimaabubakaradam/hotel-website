@@ -51,12 +51,13 @@ To get started with the Hotel Website, follow these steps:
 bash
 Copy code
 git clone https://github.com/fatimaabubakaradam/hotel-website.git
-Navigate to the Project Directory:
+
 2. **Navigate to the Project Directory:**
 bash
 Copy code
 cd hotel-website
-3. **Open in a Browser:**
+
+4. **Open in a Browser:**
 
 Open index.html in your preferred web browser to view the mobile version of the website.
 
